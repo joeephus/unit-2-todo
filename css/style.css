@@ -1,0 +1,68 @@
+* 	{
+	margin: 0;
+	padding: 0;
+	border-color: brown;
+	border-width: 2px;
+}
+
+body 	{
+	background-image: url("C:/Users/joseph/Documents/thinkful/unit-2-todo/images/office-background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	text-align: center;
+}
+
+.wrapper {
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+
+h1, h2 	{
+	display: inline-block;
+	margin: 0 auto;
+	width: 100%;
+}
+
+span 	{
+	font-family: helevetica;
+	font-size: 1.4em;
+	line-height: 2em;
+	margin: 0 auto;
+	display: inline-block;
+	width: 100%;
+}
+
+
+.theInput	{
+	display: inline-block;
+	margin-top: 1em;
+	width: 40%;
+	border-radius: 10px;
+	height: 2em;
+
+}
+
+.addItem, .item	{
+
+	width: 40%;
+	margin: 0 5em;
+	display: inline-block;
+	margin: .6em auto;
+	border-radius: 1em;
+	height: 2em;
+
+}
+
+.list button 	{
+	border-radius: 10px;
+	margin-left: 1em;
+
+}
+
+.line_through 	{
+	color: black;
+	text-decoration: line-through;
+	background-color: green;
+}
