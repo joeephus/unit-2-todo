@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item",
+				"item"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"th",
+				"theInput"
+			],
+			[
+				"input",
+				"input_value"
+			],
+			[
+				"ryu",
+				"ryu-still"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"c",
+				"cc0022"
+			],
+			[
+				"border-right",
+				"border-right-width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"MAR",
+				"margin-right"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"pr",
+				"printToday"
+			],
+			[
+				"L",
+				"luckyNumber"
+			],
+			[
+				"lucky",
+				"luckyNumber"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ea",
+				"ease-out"
+			],
+			[
+				"eas",
+				"ease-in"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"BACK",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"control package",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/joseph/Documents/thinkful/unit-2-todo/js/app.js",
+		"/C/Users/joseph/Documents/thinkful/hot-or-cold-starter/hot-or-cold-starter-master/js/app.js",
+		"/C/Users/joseph/Documents/thinkful/hot-or-cold-starter/hot-or-cold-starter-master/styles/style.css",
+		"/C/Users/joseph/Documents/thinkful/hot-or-cold-starter/hot-or-cold-starter-master/index.html",
+		"/C/Users/joseph/Documents/thinkful/starter code/hot-or-cold.js",
+		"/C/Users/joseph/Documents/thinkful/unit-2-todo/css/style.css",
+		"/C/Users/joseph/Documents/thinkful/unit-2-todo/index.html",
+		"/C/Users/joseph/Documents/thinkful/FizzBuzz/css/style.css",
+		"/C/Users/joseph/Documents/thinkful/FizzBuzz/index.html",
+		"/C/Users/joseph/Documents/thinkful/FizzBuzz/js/app.js",
+		"/C/Users/joseph/Documents/thinkful/street-fighter/js/app.js",
+		"/C/Users/joseph/Documents/thinkful/street-fighter/css/main.css",
+		"/C/Users/joseph/Documents/thinkful/street-fighter/main.html",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/css/style.css",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/index.html",
+		"/C/Users/joseph/Documents/thinkful/street-fighter/css/style.css",
+		"/C/Users/joseph/Documents/thinkful/street-fighter/index.html",
+		"/C/Users/joseph/Documents/thinkful/vox-blog-clone/charset.html",
+		"/C/Users/joseph/Documents/thinkful/vox-blog-clone/css/style.css",
+		"/C/Users/joseph/Documents/thinkful/vox-blog-clone/index.html",
+		"/C/Users/joseph/Documents/thinkful/Jquery/js/app.js",
+		"/C/Users/joseph/Documents/thinkful/Unit-1-portfolio/css/style.css",
+		"/C/Users/joseph/Documents/thinkful/Unit-1-portfolio/index.html",
+		"/C/Users/joseph/Documents/thinkful/Jquery/index.html",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/css/normalize.css",
+		"/C/Users/joseph/Documents/thinkful/emmet.html",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/_socket.pyd",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/_multiprocessing.pyd",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/_hashlib.pyd",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/_msi.pyd",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/_elementtree.pyd",
+		"/C/Users/joseph/Documents/thinkful/startup-landing-page-clone/changelog.txt",
+		"/C/Users/joseph/Documents/thinkful/semantics.txt",
+		"/C/Users/joseph/Documents/authentic-signs/style/style.css",
+		"/C/Users/joseph/Documents/thinkful/Firstassignment/style.css",
+		"/C/Users/joseph/Documents/authentic-signs/index.html",
+		"/C/Users/joseph/Documents/thinkful/first-site/mystyle.css",
+		"/C/Users/joseph/Documents/thinkful/first-site/freshprince.html",
+		"/C/Users/joseph/Documents/portfolio beginning/Joelo.html",
+		"/C/Users/joseph/Documents/authentic-signs/pricing.html",
+		"/C/Users/joseph/Documents/authentic-signs/2010.html",
+		"/C/Users/joseph/Documents/authentic-signs/gallery.html",
+		"/C/Users/joseph/Documents/silly/css/style.css",
+		"/C/Users/joseph/Documents/silly/test.html",
+		"/C/Users/joseph/Documents/authentic-signs/2014.html",
+		"/C/Users/joseph/Documents/authentic-signs/2013.html",
+		"/C/Users/joseph/Documents/authentic-signs/2012.html",
+		"/C/Users/joseph/Documents/authentic-signs/2011.html",
+		"/C/Users/joseph/Documents/authentic-signs/contact.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter03/print_date.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter03/conditional.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter02/arrays.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/testbed/array_methods.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter02/prompt.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter02/use_variable.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter01/fadeIn.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter01/hello2.html",
+		"/C/Users/joseph/Documents/design books/MM_JAVASCRIPT2E/chapter01/hello.html",
+		"/C/Users/joseph/Documents/silly/workerthree.html",
+		"/C/Users/joseph/Documents/silly/ana.html",
+		"/C/Users/joseph/Documents/silly/ourteam.html",
+		"/C/Users/joseph/Documents/silly/workertwo.html",
+		"/C/Users/joseph/Documents/silly/workerone.html",
+		"/C/Users/joseph/Documents/skillshare/4.2-final-code/index.html",
+		"/C/Users/joseph/Documents/skillshare/4.2-final-code/css/style.css",
+		"/C/Users/joseph/Documents/sublime/css/style.css",
+		"/C/Users/joseph/Documents/sublime/ourteam.html",
+		"/C/Users/joseph/Documents/sublime/contact.html",
+		"/C/Users/joseph/Documents/sublime/MaryKay.html",
+		"/C/Users/joseph/Downloads/HowToMakeAWebsite-Stage6-Video1/css/main.css",
+		"/C/Users/joseph/Downloads/designbyfront-The-Goldilocks-Approach-1b0afd2/designbyfront-The-Goldilocks-Approach-1b0afd2/js/libs/modernizr-1.7.min.js",
+		"/C/Users/joseph/Documents/sublime/cosmetics.html",
+		"/C/Users/joseph/Documents/sublime/myscript.js",
+		"/C/Users/joseph/Documents/sublime/style.css",
+		"/C/Users/joseph/Documents/first portfolio/second.html",
+		"/C/Users/joseph/Documents/first portfolio/first.html",
+		"/C/Users/joseph/Documents/skillshare/4.2-final-code/sale.html",
+		"/C/Users/joseph/Documents/first portfolio/style.css",
+		"/C/Users/joseph/Documents/first portfolio/about me.html",
+		"/C/Users/joseph/Documents/first portfolio/j. lorenzo portfolio.html",
+		"/C/Users/joseph/Documents/dreamweaver/dreamweaver template.html",
+		"/C/Users/joseph/Documents/first portfolio/normalize.css",
+		"/C/Users/joseph/Documents/skillshare/randos/stylesheet.css",
+		"/C/Users/joseph/Documents/skillshare/randos/the foundation.html",
+		"/C/Users/joseph/Documents/skillshare/project/ideas.html",
+		"/C/Users/joseph/Documents/skillshare/the foundation.html",
+		"/C/Users/joseph/Documents/skillshare/1.2-tables-forms-iframes/1.2-tables-forms-iframes/catalog.html",
+		"/C/Users/joseph/Documents/skillshare/2.2-css-fundamentals/css/style.css",
+		"/C/Users/joseph/Documents/skillshare/1.2-tables-forms-iframes/1.2-tables-forms-iframes/index.html",
+		"/C/Users/joseph/Documents/skillshare/1.2-tables-forms-iframes/1.2-tables-forms-iframes/sale.html",
+		"/C/Users/joseph/Documents/skillshare/2.1-html5-elements/2.1-html5-elements/contact.html",
+		"/C/Users/joseph/Documents/skillshare/1.2-tables-forms-iframes/1.2-tables-forms-iframes/contact.html",
+		"/C/Users/joseph/Documents/skillshare/2.2-css-fundamentals/catalog.html",
+		"/C/Users/joseph/Documents/skillshare/2.2-css-fundamentals/contact.html",
+		"/C/Users/joseph/Documents/skillshare/2.2-css-fundamentals/index.html",
+		"/C/Users/joseph/Documents/skillshare/2.2-css-fundamentals/pricing.html",
+		"/C/Users/joseph/Documents/skillshare/2.2-css-fundamentals/sale.html",
+		"/C/Users/joseph/Documents/skillshare/1.1-html-fundamentals-finished.zip"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"block",
+			"650px",
+			"				\n",
+			" \n",
+			"			 				",
+			";\n",
+			"%;",
+			"auto",
+			";\n",
+			"black",
+			"solid",
+			";\n",
+			"class",
+			"black"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "unit-2-todo.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 120.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

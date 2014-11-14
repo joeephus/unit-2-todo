@@ -46,7 +46,8 @@ span 	{
 
 .addItem, .item	{
 
-	width: 40%;
+	width: 20%;
+	padding: 0 15%;
 	margin: 0 5em;
 	display: inline-block;
 	margin: .6em auto;
@@ -56,13 +57,19 @@ span 	{
 }
 
 .list button 	{
-	border-radius: 10px;
+	width: 1em;
+	height: 1em;
 	margin-left: 1em;
-
+	float: right;
+	margin-top: .1em;
 }
 
 .line_through 	{
-	color: black;
+	color: white;
 	text-decoration: line-through;
-	background-color: green;
+	background-color: black;
+}
+
+li 	{
+	font-size: 1.4em;
 }
